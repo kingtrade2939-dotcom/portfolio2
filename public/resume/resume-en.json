@@ -1,0 +1,151 @@
+{
+  "selectedTemplate": 3,
+  "headings": {
+    "skills": "Skills",
+    "projects": "Projects",
+    "work": "Work Experience"
+  },
+  "basics": {
+    "email": "kelvinsanchez15@gmail.com",
+    "name": "Xavier Cooper ",
+    "location": {
+      "address": "Orlando, Florida"
+    },
+    "website": "www.kelvinsanchez15.com"
+  },
+  "education": [],
+  "work": [
+    {
+      "company": "Research Improving People's Lives",
+      "position": "Senior Software Engineer",
+      "location": "Orlando, Florida",
+      "startDate": "Feb 2023",
+      "endDate": "Present",
+      "highlights": [
+        "Led frontend architecture, established best practices, and improved code quality through reviews, elevating engineering standards",
+        "Engineered UX solutions that increased page speed, usability, and accessibility, leading to better user engagement",
+        "Built interactive dashboards with geospatial insights to transform complex public safety data into actionable visuals",
+        "Developed secure, scalable cloud infrastructures to ensure reliable performance and protect sensitive research data",
+        "Spearheaded the new Resume Generator feature, from POC to full integration into the main application, collaborating across product, engineering, and engagement teams"
+      ]
+    },
+    {
+      "company": "Xepelin",
+      "position": "Front-end Developer",
+      "location": "Orlando, Florida",
+      "startDate": "Oct 2021",
+      "endDate": "Feb 2023",
+      "highlights": [
+        "Built a new onboarding flow, improving self-enrolled users by 33%",
+        "Developed high business impact components, such as the Credit Line widget and a scalable Navbar",
+        "Pioneered the implementation of Typescript and Unit testing, improving overall application trust"
+      ]
+    },
+    {
+      "company": "alacartadigital",
+      "position": "Full Stack Developer",
+      "location": "Orlando, Florida",
+      "startDate": "Apr 2021",
+      "endDate": "Sep 2022",
+      "highlights": [
+        "Implemented features such as yearly subscriptions and multiple restaurants per user, increasing company revenue by 40%",
+        "Optimized Lighthouse metrics, achieving a score of 98 for a smoother user experience and improved SEO",
+        "Responsible for maintaining and deploying the platform using Next.js, Redux, and Firebase as the primary technology stack"
+      ]
+    },
+    {
+      "position": "Front-end Developer",
+      "startDate": "Ene 2019",
+      "endDate": "Dec 2020",
+      "highlights": [
+        "Led improvements to the company website and managed the design system",
+        "Optimized app performance for speed and scalability",
+        "Designed and built features that enhanced the usability and functionality of the application"
+      ],
+      "company": "PETUCA",
+      "location": "Ciudad Bolívar, Venezuela"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Redux"
+      ],
+      "name": "Frontend"
+    },
+    {
+      "keywords": ["Python", "FastAPI", "Node.js"],
+      "name": "Backend"
+    },
+    {
+      "keywords": ["PostgreSQL", "MongoDB", "Firebase"],
+      "name": "Databases"
+    },
+    {
+      "keywords": ["Docker", "Python", "Google Cloud"],
+      "name": "Infrastructure"
+    },
+    {
+      "keywords": ["Tailwind CSS", "Material UI", "Bootstrap"],
+      "name": "CSS frameworks"
+    },
+    {
+      "keywords": ["Supabase", "Cypress"],
+      "name": "Testing"
+    },
+    {
+      "keywords": ["Git", "Figma", "Postman"],
+      "name": "Other"
+    }
+  ],
+  "projects": [
+    {
+      "description": "Arkansas Skills-Based Candidate Matching Tool",
+      "url": "https://employer.launch.arkansas.gov/",
+      "keywords": ["React", "Next.js", "Typescript", "Supabase"],
+      "name": "LAUNCH for Employers"
+    },
+    {
+      "description": "Public Safety Data for Village of Hazel Crest",
+      "url": "https://hazelcrest.dataforcommunitytrust.org/",
+      "keywords": ["Docker", "AWS", "React", "Next.js"],
+      "name": "Data for Community Trust"
+    },
+    {
+      "description": "Certified Payroll Collection and Analysis Tool",
+      "url": "https://njwages.nj.gov/",
+      "keywords": ["React", "Next.js", "Typescript", "Material UI", "Zod"],
+      "name": "New Jersey Wage Hub"
+    },
+    {
+      "description": "Online restaurant menu platform with QR code integration.",
+      "url": "https://avocaty.io/",
+      "keywords": ["React", "Next.js", "Material UI", "Firebase", "Stripe"],
+      "name": "alacartadigital"
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}

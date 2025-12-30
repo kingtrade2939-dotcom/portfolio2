@@ -10,6 +10,7 @@
     "introduction": "I'm Xavier Cooper ",
     "role": "Senior Software Engineer",
     "paragraph": "Passionate about coding, and making my client ideas come true. I’m a versatile full-stack developer with expertise in React, Node.js, Python/Django, and C#/.NET, building secure, scalable, and user-friendly applications across web and enterprise environments. I have experience designing RESTful APIs, architecting high-availability systems, and deploying solutions on Azure and AWS. My work spans from crafting seamless front-end experiences to developing complex backend logic and database structures, always with a focus on performance, clean code, and business impact. I thrive in collaborative environments and enjoy turning ideas into polished digital products.",
+    
     "button1": "Check my work",
     "button2": "Contact me"
   },
@@ -22,7 +23,7 @@
       "Outside of work, I enjoy playing football, guitar, reading, and indulging in video games."
     ],
     "resumeTitle": "Resume",
-    "resumeParagraph": "You can check my resumé in the link below.",
+    "resumeParagraph": "You can check my resume in the link below.",
     "resumeButton": "Resume",
     "resumeLink": "/resume/resume-en.pdf",
     "skillsTitle": "Skills"

@@ -41,7 +41,7 @@ export default function Hero({ heroData: t }: { heroData: HeroData }) {
             {t.role}
           </Typography>
 
-          <Typography color="textSecondary" component="p" variant="subtitle1">
+          <Typography width = "56%" color="textSecondary" component="p" variant="subtitle1">
             {t.paragraph}
           </Typography>
         </Box>
